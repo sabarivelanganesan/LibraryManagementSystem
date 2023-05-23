@@ -1,0 +1,51 @@
+ID,Genre,Title,Author,Purchase Price £,Purchase Date
+1,Fantasy,A Game of Thrones,George R. R. Martin,20,1/8/2017
+2,Classics,Pride and Prejudice (1813),Jane Austen,15,1/3/2017
+3,Mystery,And Then There Were None,Agatha Christie,20,1/8/2017
+4,Fantasy,The Fellowship of the Ring,J. R. R. Tolkien,15,1/3/2017
+5,Sci-Fi,The Blazing World (1666),Margaret Cavendish,10,1/4/2017
+6,Horror-Fi,The Other Black Girl,Zakiya Dalila Harris,20,1/4/2017
+7,Sci-Fi,The Left Hand of Darkness (1969),Ursula K. Le Guin,15,1/6/2017
+8,Mystery,In Cold Blood,Truman Capote,20,1/8/2017
+9,Classics,Crime and Punishment (1866),Fyodor Dostoevsky,15,1/3/2017
+10,Horror-Fi,The Hunger,Alma Katsu,20,1/4/2017
+11,Mystery,The Big Sleep,Raymond Chandler,15,1/8/2017
+12,Classics,"Brave New World (1932)",Aldous Huxley,10,1/3/2017
+13,Sci-Fi,A Scanner Darkly (1977),Philip K Dick,25,1/4/2017
+14,Fantasy,"The Lion, the Witch and the Wardrobe",C. S. Lewis,20,1/3/2017
+15,Classics,The Great Gatsby (1925),F. Scott Fitzgerald,25,1/8/2017
+16,Thriller,Gone Girl,Gillian Flynn,10,1/6/2017
+17,Novel,Ulysses,James Joyce,15,1/3/2017
+18,Sci-Fi,Ice (1967),Anna Kavan,20,1/8/2017
+19,Fantasy,Assassin’s Apprentice,Robin Hobb,20,1/4/2017
+20,Classics,To Kill a Mockingbird (1960),Harper Lee,20,1/6/2017
+21,Novel,Harry Potter and the Goblet of Fire(2000),JK Rowling,15,1/3/2017
+22,Sci-Fi,Frankenstein(1818),Mary Shelley,25,1/4/2017
+23,Thriller,Those Bones Are Not My Child,Toni Cade Bambara,20,1/8/2017
+24,Fantasy,The Name of the Wind,Patrick Rothfuss,10,1/3/2017
+25,Classics,Jane Eyre (1847),Charlotte Bronte,15,1/4/2017
+26,Horror-Fi,Something Wicked This Way Comes,Ray Bradbury,20,1/8/2017
+27,Sci-Fi,Foundation(1951),Isaac Asimov,25,1/6/2017
+28,Action,Jurassic Park,Michael Crichton,20,1/3/2017
+29,Sci-Fi,The Stars My Destination(1957),Alfred Bester,10,1/3/2017
+30,Thriller,The Shining,Stephen King,10,1/4/2017
+31,Classics,One Hundred Years of Solitude (1967),Gabriel García Márquez,15,1/6/2017
+32,Sci-Fi,Solaris (1961),Stanislaw Lem,20,1/8/2017
+33,Mystery,Gone Girl,Gillian Flynn,25,1/6/2017
+34,Novel,Chronicles: Volume One (2004),Bob Dylan,20,1/3/2017
+35,Classics,I Capture The Castle (1948),Dodie Smith,10,1/3/2017
+36,Action,Journey to the Center of the Earth,Jules Verne,15,1/6/2017
+37,Novel,I Feel Bad About My Neck (2006),Nora Ephron,25,1/4/2017
+38,Sci-Fi,Dune (1965),Frank Herbert,20,1/8/2017
+39,Action,The Mark of Zorro,Johnston McCulley,10,1/6/2017
+40,Fantasy,The Eye of the World,Robert Jordan,25,1/3/2017
+41,Action,The Maze Runner,James Dashner,20,1/6/2017
+42,Classics,In Cold Blood (1965),Truman Capote,15,1/4/2017
+43,Action,"Treasure Island",Robert Louis Stevenson,10,1/8/2017
+44,Sci-Fi,The Moon is a Harsh Mistress (1966),Robert Heinlein,20,1/6/2017
+45,Novel,The Girl With the Dragon Tattoo (2005),Stieg Larsson,10,1/3/2017
+46,Mystery,The Postman Always Rings Twice,James M. Cain,10,1/6/2017
+47,Thriller,Monkey Beach,Eden Robinson,10,1/8/2017
+48,Classics,Wide Sargasso Sea (1966),Jean Rhys,20,1/3/2017
+49,Novel,A Little Life (2015),Hanya Yanagihara,15,1/4/2017
+50,Fantasy,Dragonflight,Anne McCaffrey,20,1/3/2017
